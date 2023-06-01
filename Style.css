@@ -1,0 +1,69 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#container {
+	width: 100%;
+	padding-left: 0px;
+	padding-right: 0px;
+	background-color: transparent;
+	border: solid 0px transparent;
+}
+
+#header {
+	height: 50px;
+	width: 100%;
+	background-color: aliceblue;
+	border: solid 1px transparent;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#navi {
+	list-style: none;
+	text-align: center;
+}
+
+#navi li {
+	display:  inline;
+	padding: 20px;
+}
+
+#main {
+	height: 300px;
+	width: 100%;
+	border: solid 0px transparent;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	background-color: #FBF7E2;
+	padding-top: 30px;
+	padding-left: 30px;
+	text-align: left;
+	font-family:Comme;
+}
+
+h2 {
+   color:#221F20;
+   font-family:"Concert One";
+   font-size:28px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
